@@ -1,0 +1,20 @@
+{
+    "name": "1005-team-03-HTML5-CSS3-JAVASCRIPT-",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sankodk72/1005-team-03-HTML5-CSS3-JAVASCRIPT-.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sankodk72/1005-team-03-HTML5-CSS3-JAVASCRIPT-/issues"
+    },
+    "homepage": "https://github.com/sankodk72/1005-team-03-HTML5-CSS3-JAVASCRIPT-#readme"
+}
